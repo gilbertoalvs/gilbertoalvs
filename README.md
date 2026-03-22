@@ -8,7 +8,6 @@
 
 🎓 Estudante de **Ciência da Computação na UNICAP (2º período)**  
 💻 Interessado em **Desenvolvimento Back-End**  
-📍 Carpina, Brasil  
 
 ---
 
