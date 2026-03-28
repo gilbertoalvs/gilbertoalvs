@@ -43,12 +43,6 @@ Estou focado em construir uma base sólida em programação e evoluir cada vez m
 ### 📊 Estatísticas
 
 <p align="left">
-
-  <img height="200" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilbertoalvs&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas Gerais" />
-
-</p>
-
-
-<p align="left">
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilbertoalvs&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas Gerais" />
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilbertoalvs&theme=tokyonight&layout=compact&langs_count=9" alt="GitHub Stats" />
 </p>
