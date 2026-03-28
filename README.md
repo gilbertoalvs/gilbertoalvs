@@ -42,12 +42,6 @@ Estou focado em construir uma base sólida em programação e evoluir cada vez m
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoalvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilbertoalvs&theme=tokyonight&layout=compact&langs_count=9" alt="GitHub Stats" />
 </p>
