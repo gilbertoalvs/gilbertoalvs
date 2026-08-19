@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Foco-Back--End-success" />
 </p>
 
-🎓 Estudante de **Ciência da Computação na UNICAP (2º período)**  
+🎓 Estudante de **Ciência da Computação na UNICAP (3º período)**  
 💻 Interessado em **Desenvolvimento Back-End**  
 
 ---
@@ -24,8 +24,8 @@ Estou focado em construir uma base sólida em programação e evoluir cada vez m
 ## 🧠 Atualmente estudando
 
 - 📌 Estruturas de Dados  
-- 📌 Linguagem C  
-- 📌 Python  
+- 📌 Programação Orientada a objetos  
+- 📌 Construção de compiladores  
 - 📌 Java  
 - 📌 Git e GitHub  
 
